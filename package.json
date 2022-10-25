@@ -1,0 +1,19 @@
+{
+  "name": "themovieapp",
+  "version": "1.0.0",
+  "description": "This is an application that fetchs data from the TMDB API",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jcorrales07/theMovieApp.git"
+  },
+  "author": "@jcorrales07",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jcorrales07/theMovieApp/issues"
+  },
+  "homepage": "https://github.com/Jcorrales07/theMovieApp#readme"
+}
