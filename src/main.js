@@ -1,6 +1,10 @@
 //Ocupas una API KEY para que el proyecto funcione,
 //entonces crea un archivo secrets.js y pones tu llave
 
+//No me robes mi API KEY porfa
+//Don't take away my API KEY pls
+API_KEY = '5d6333b08957ac769213935b302e8c6c'
+
 //Instancia de axios
 const api = axios.create({
     baseURL: 'https://api.themoviedb.org/3',
